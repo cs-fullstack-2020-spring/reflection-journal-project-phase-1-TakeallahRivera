@@ -1,0 +1,1 @@
+alert ("Please submit your daily reflections, Takeallah!");
