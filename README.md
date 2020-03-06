@@ -22,13 +22,7 @@ For Phase 1 of this project you will develop the following:
 
 #### Example:
 ```js
-const journalEntries = [
-    {
-        creation_date: "03/04/2020",
-        journal_entry: "We learned about 4 different higher order array methods today. forEach made sense, 
-        but the others were way confusing.",
-        confidence_level: "Medium"
-    },
+
     etc...
 ]
 ```

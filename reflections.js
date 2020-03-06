@@ -9,3 +9,4 @@ alert ("Please submit your daily reflections, Takeallah!");
 
 }
 */
+ document.getElementById("MyButton").onclick='Do Something';
