@@ -1,4 +1,5 @@
 # Reflections Journal Project - Phase 1 (HTML/CSS/JavaScript)
+#### You are missing all JS requirements. Check out the solution in the gist I sent in the slack
 > Please jump to the bottom of this README file for general information and project guidelines
 
 ## Phase 1: Design and Layout, JavaScript Reflection Objects
